@@ -2,10 +2,10 @@
 Just have a nave bar component which have a working dropdown that is animated to the best to imitate original facebook animation. So if you are checking out this project run the below given `npm start` script and then take a look at that nav bar dropdown animation, it has more animation inside dropdown.
 
 ## How to initiate
--Zip the repository to your local machine.
--Make sure you have nodejs installed on your machine.
--Open project directory in terminal/shell and rum `npm install`
--Wait for installations, then run `npm start`
+- Zip the repository to your local machine.
+- Make sure you have nodejs installed on your machine.
+- Open project directory in terminal/shell and rum `npm install`
+- Wait for installations, then run `npm start`
 
 
 ## Available Scripts
